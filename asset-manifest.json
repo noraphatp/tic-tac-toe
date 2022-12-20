@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noraphatp/tic-tac-toe/static/css/main.763dacf5.css",
+    "main.js": "/noraphatp/tic-tac-toe/static/js/main.9fcada4d.js",
+    "static/js/787.393238a3.chunk.js": "/noraphatp/tic-tac-toe/static/js/787.393238a3.chunk.js",
+    "index.html": "/noraphatp/tic-tac-toe/index.html",
+    "main.763dacf5.css.map": "/noraphatp/tic-tac-toe/static/css/main.763dacf5.css.map",
+    "main.9fcada4d.js.map": "/noraphatp/tic-tac-toe/static/js/main.9fcada4d.js.map",
+    "787.393238a3.chunk.js.map": "/noraphatp/tic-tac-toe/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.763dacf5.css",
+    "static/js/main.9fcada4d.js"
+  ]
+}
