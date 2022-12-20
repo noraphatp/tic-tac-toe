@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #a7cbee;
+}
+
+.current-player {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+table {
+  border-collapse: collapse;
+  padding: 50px;
+  margin: 25px;
+}
+
+/* Style table sqaures*/
+table td {
+  border: 5px solid #5a3792;
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.cell-1 {
+  border-left: none;
+  border-top: none;
+}
+
+/* Style button */
+button {
+  background-color: #393E46;
+  border: 1px solid #F2E7D5;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+}
+
+/* Button background and text change color on hover */
+button:hover {
+  background-color: #F2E7D5;
+  color: #393E46;
+}
+
+/* Shrink the button a bit when button press is active */
+button:active {
+  transform: scale(0.95);
+}
